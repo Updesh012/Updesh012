@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Updesh</h1>
 <h3 align="center">An Aspiring Java Backend Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.T1kCXgcPJbd1XmZlZHwuUAHaEU&pid=Api&P=0">
+<img align="right" alt="Coding" width="370" src="https://tse1.mm.bing.net/th?id=OIP.T1kCXgcPJbd1XmZlZHwuUAHaEU&pid=Api&P=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=updesh012&label=Profile%20views&color=0e75b6&style=flat" alt="updesh012" /> </p>
 
