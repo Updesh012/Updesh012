@@ -18,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/updesh-rajput-0123ar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="updesh rajput" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCHgFklntHZ15kbLtK9gHVCg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learning java" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Updeshkumarrajp1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="updesh" height="30" width="40" /></a>
-<a href="https://leetcode.com/Updesh_Rajput/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="updesh_rajput" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/updesh-rajput-0123ar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="updesh rajput" height="40" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCHgFklntHZ15kbLtK9gHVCg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learning java" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/Updeshkumarrajp1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="updesh" height="40" width="40" /></a>
+<a href="https://leetcode.com/Updesh_Rajput/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="updesh_rajput" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
