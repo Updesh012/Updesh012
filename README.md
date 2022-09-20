@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Updesh</h1>
-<h3 align="center">An Aspiring Java Backend Developer</h3>
+<h3 align="center">A Passionate aspiring Java Backend Developer skilled in Java stack, moulded and shaped by Masai school’s intensive and immersive learning. Looking at joining a challenging work environment where I can develop a deeper understanding of web development.</h3>
 <img align="right" alt="Coding" width="370" src="https://tse1.mm.bing.net/th?id=OIP.T1kCXgcPJbd1XmZlZHwuUAHaEU&pid=Api&P=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=updesh012&label=Profile%20views&color=0e75b6&style=flat" alt="updesh012" /> </p>
