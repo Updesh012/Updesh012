@@ -50,11 +50,7 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Updesh012&theme=radical&langs_count=8"  width="24%"/>
    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Updesh012&theme=gruvbox&hide_border=true&area=true"  width="70%"/>
 </p>
-    
-    
-   
-
-
+ 
 <br>
 
 
